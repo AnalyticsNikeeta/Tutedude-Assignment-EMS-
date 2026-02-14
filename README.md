@@ -1,58 +1,91 @@
-# Tutedude-Assignment-EMS-
-Python based Employee Management System using dictionary and functions.
+
+* Employee Management System (EMS)
+  
+  A Python based console application to manage employee records using dictionary data storage.
 
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+* Project Overview
 
----
+  This project is developed as part of the Tutedude Data Science Course.
 
-## About The Project
+  It demonstrates:
+  
+  1. Dictionary data structure
+  2. Menu driven programming
+  3. Functions
+  4. Input validation
+  5. Control structures
 
-The Employee Management System (EMS) is a menu-driven console application developed in Python.  
-It allows users to add, view, and search employee records efficiently.
 
-This project demonstrates strong understanding of:
-- Data Structures (Dictionary & Nested Dictionary)
-- Functions
-- Conditional Statements
-- Loops
-- Input Validation
-- Structured Programming
+* Features
 
----
+  1. Add Employee
+  2. View All Employee
+  3. Search Employee by ID
+  4. Exit Program
 
-## Features
 
-| Feature | Description |
-|----------|------------|
-| Add Employee | Add a new employee with unique ID validation |
-| View Employees | Display all employees in structured format |
-| Search Employee | Search employee by ID |
-| Exit | Close the program safely |
+* Technologies Used
 
----
+  - Python 3
+  - Dictionary
+  - Loops and Conditional Statements
 
-## Tech Stack
 
-- Python 3
-- Dictionary Data Structure
-- Console-based UI
+* How to Run the Poject
 
----
+  1. Download the project Files
+  2. Open terminal or command prompt.
+  3. Navigate to the project folder.
+  4. Run the following Command.
 
-## Project Structure
+  python ems.py
 
-Employee-Management-System/
-│
-├── ems.py
-├── README.md
-└── .gitignore
+------
+ 
+* Sample Data Structure
 
----
+ { 
+   101: {
+        "name": "Satya",
+	"age": 27,
+	"department": "HR",
+	"salary": 50000
+      }
+    }
 
-## ▶️ How to Run
 
-```bash
-python ems.py
+** Learning Outcome
+
+   Improved understanding of dictionaries,
+   Function based program structure.
+   Real world employee data handling logic.
+
+
+----
+    
+ # Author
+
+Nikeeta Sharma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
